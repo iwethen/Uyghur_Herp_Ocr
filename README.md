@@ -10,5 +10,5 @@ Numpy
 Sklearn
 
 
-First  Run create-data.py to create data
+First  Run create-data.py to create data,
 Run ocr.py for training
